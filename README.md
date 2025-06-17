@@ -71,10 +71,10 @@ I'm a data science learner at IIT Madras, passionate about turning data into ins
 ## 📫 Let's Connect!
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:kushal-tiwari.outlook.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://linkedin.com/in/kushal-tiwari108" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://drive.google.com/your-portfolio-link" target="_blank">
