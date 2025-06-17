@@ -77,7 +77,7 @@ I'm a data science learner at IIT Madras, passionate about turning data into ins
   <a href="https://linkedin.com/in/kushal-tiwari108" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://drive.google.com/your-portfolio-link" target="_blank">
+  <a href="https://kushal-tiwari.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>
   </a>
 </p>
